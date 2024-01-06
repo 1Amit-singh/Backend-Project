@@ -1,0 +1,17 @@
+{
+  "name": "youtube-clone",
+  "version": "1.0.0",
+  "description": "Complex app with features just like youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Youtube",
+    "Clone",
+    "videos",
+    "tweet"
+  ],
+  "author": "Amit Singh",
+  "license": "ISC"
+}
